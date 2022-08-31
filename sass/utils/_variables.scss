@@ -10,4 +10,6 @@
   --btn-hover-color: #188ce8;
 }
 
-
+@mixin fonts {
+  font-family: "Roboto", sans-serif;
+}
